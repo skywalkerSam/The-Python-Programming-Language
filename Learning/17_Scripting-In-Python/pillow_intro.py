@@ -19,4 +19,3 @@ bluredimage_one = img_one.filter(ImageFilter.BLUR)
 # bluredimage_one.save("./src_images/bluredimage_one.png")
 
 
-
